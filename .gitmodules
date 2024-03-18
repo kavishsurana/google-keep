@@ -1,0 +1,3 @@
+[submodule "subproject_directory"]
+	path = subproject_directory
+	url = git@github.com:kavishsurana/client-google-keep.git
